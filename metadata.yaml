@@ -1,5 +1,8 @@
 _repo: A-Short-History-of-the-Royal-Navy-1217-1815-Volume-II-1689-1815_58814
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58814-h/images/cover.jpg
 creator:
   author:
     agent_name: Hannay, David
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '43936'
     url: http://www.gutenberg.org/2009/agents/43936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58814#A-Short-History-of-the-Royal-Navy-1217-1815-Volume-II-1689-1815
 gutenberg_issued: '2019-02-03'
 gutenberg_type: Text
 identifiers:
